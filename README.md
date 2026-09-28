@@ -42,15 +42,13 @@ I'm an AI and data practitioner based in Sydney who recently completed a **Maste
 
 ---
 
-### Featured work
+### Featured projects
 
-| Area | What I built | Stack |
-|---|---|---|
-| 📚 **Retrieval-Augmented Generation (RAG)** | Question-answering pipelines that retrieve relevant document chunks and ground LLM answers in them | Python · embeddings · vector search · LLMs |
-| 👁️ **Computer Vision** | Image-based deep learning models from my master's coursework | Python · PyTorch · OpenCV |
-| 🎮 **Reinforcement Learning** | Agents trained to learn policies in simulated environments | Python · NumPy |
-
-> 🚧 Project repositories are being uploaded — check back soon!
+| Project | What it does | Highlights | Stack |
+|---|---|---|---|
+| 📚 **[RAG Q&A Assistant](https://github.com/sanjana29-1/rag-qa-assistant)** | Answers staff questions from a handbook, grounded in retrieved sources, with citations | Hit@3 **0.92**, MRR **0.84**; refuses out-of-scope questions | Python · scikit-learn · Claude API |
+| 📊 **[Retail Sales Analysis](https://github.com/sanjana29-1/retail-sales-analysis)** | Turns 75k retail transactions into staffing, stock and pricing recommendations | SQL + charts; EOFY sale drove +3% orders but −16% revenue vs May | Python · Pandas · SQL · Matplotlib |
+| 🎮 **[Q-Learning GridWorld](https://github.com/sanjana29-1/rl-gridworld-qlearning)** | RL agent that learns to navigate a slippery maze, built from scratch | **100%** success vs 3% for random | Python · NumPy |
 
 ---
 
